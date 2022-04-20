@@ -1,11 +1,11 @@
 <!-- PROJECT LOGO -->
 
-![](/public/jammmingFolder.png)
+![](/public/screenshots/jammmingFolder.png)
 <br />
 
 
 <p align="center">
-  <h1 align="center">Ja<span style="color: #6c41ec;">mmm</span>ing</h1>
+  <h1 align="center">Ja<span style="color: #6c41ec;">mmm</span>ing App</h1>
 
   <p align="center">
     A React App to Create a Playlist App With the Spotify API. 
@@ -30,13 +30,13 @@ This is a front-end application using **React** that creates **a Playlist App** 
 
 ## :art:Usage Example
 
-- User may enter a Song Title in the Search bar and a list with the results will appear.
+- User may enter a Song, Album, or Artist Title in the Search bar and a list with the results will appear.
 
-<div align="center"><img src="/public/searchResults.png" height="400px"></div>
+<div align="center"><img src="/public/screenshots/searchResults.png" height="400px"></div>
 
-- User may add song to a new playlist and save it to their Spotify Account.
+- User may add songs to a new playlist and save it to their Spotify Account.
 
-<div align="center"><img src="/public/playlist.png" height="400px"></div>
+<div align="center"><img src="/public/screenshots/playlist.png" height="400px"></div>
 
 
 ## :princess:Contact
