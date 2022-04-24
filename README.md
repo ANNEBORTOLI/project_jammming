@@ -8,7 +8,7 @@
   <h1 align="center">Ja<span style="color: #6c41ec;">mmm</span>ing App</h1>
 
   <p align="center">
-    A React App to Create a Playlist App With the Spotify API. 
+    A React App that allow users to save songs to a playlist using the Spotify API. 
     <br />
   </p>
 </p>
