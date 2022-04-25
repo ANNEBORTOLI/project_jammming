@@ -3,7 +3,6 @@
 ![](/public/screenshots/jammmingFolder.png)
 <br />
 
-
 <p align="center">
   <h1 align="center">Ja<span style="color: #6c41ec;">mmm</span>ing App</h1>
 
@@ -13,11 +12,9 @@
   </p>
 </p>
 
-
 ## :memo:About the Project
 
 This is a front-end application using **React** that creates **a Playlist App** with the **Spotify API** to build a website that allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account.
-
 
 ## :wrench:Technologies
 
@@ -28,6 +25,40 @@ This is a front-end application using **React** that creates **a Playlist App** 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
+## :wrench:Getting Started
+
+#### :pushpin:Clone the Repository
+
+```sh
+   git clone https://github.com/ANNEBORTOLI/project_jammming
+```
+
+### :pushpin:Install Packages
+
+```sh
+    npm install
+```
+
+### :pushpin: Spotify API
+
+- Create a Spotify Account at https://developer.spotify.com/dashboard/login;
+
+- Once you login, create a new app;
+
+- Give your application a relevant name and description;
+
+- Add the following Redirect URI: `http://localhost:3000/` to running locally
+
+- Add your _client ID_ and _uri_ at `./util/Spotify.js`
+
+### :pushpin:Run API locally
+
+```sh
+    npm start
+```
+
+<!-- USAGE EXAMPLES -->
+
 ## :art:Usage Example
 
 - User may enter a Song, Album, or Artist Title in the Search bar and a list with the results will appear.
@@ -37,7 +68,6 @@ This is a front-end application using **React** that creates **a Playlist App** 
 - User may add songs to a new playlist and save it to their Spotify Account.
 
 <div align="center"><img src="/public/screenshots/playlist.png" height="400px"></div>
-
 
 ## :princess:Contact
 
